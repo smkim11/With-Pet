@@ -1,0 +1,14 @@
+{
+    "tomcat.subscribers": [
+        {
+            "label": "Tomcat",
+            "context": "withpet",
+            "startupTimeout": 20,
+            "shutdownTimeout": 20,
+            "postCommand": "explorer http://localhost:9000"
+        }
+    ],
+    "tomcat.war": {
+        "webappDir": "${workspaceFolder}/withpet"
+    }
+}

@@ -1,0 +1,138 @@
+h1 a img {
+    position: absolute; 
+    top: 0;
+    left: 0; 
+    width: 150px; 
+    height: auto;
+    z-index: 1;
+  }
+
+#map {
+    width: 80%; /* 너비를 80%로 설정 */
+    height: 600px; /* 높이를 500px로 설정 */
+    margin: 0 auto;
+    position: relative;
+    top: 30%; /* 원하는 위치로 조정 */
+    z-index: 0; /* 지도를 이미지 아래로 내리기 */
+}
+
+body{
+    background-color: #fff8ee;
+}
+
+.search {
+    position: absolute;
+    top: 50px; /* 원하는 위치로 조정하세요 */
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000;
+}
+.search #address {
+    width: 200px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+}
+
+.search #submit {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.search #submit:hover {
+    background-color: #45a049;
+}
+
+#local-results {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto; /* horizontal scroll if content exceeds container width */
+}
+
+#local-results ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    white-space: nowrap; /* prevent line breaks */
+}
+
+#local-results ul li {
+    display: inline-block;
+    margin-right: 10px; /* spacing between items */
+}
+#local-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#local-table th,
+#local-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#local-table th {
+    background-color: #f2f2f2;
+}
+
+#local-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+#local-results li {
+    white-space: pre-wrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.button-container {
+    display: flex;
+   // justify-content: space-between; /* 버튼 사이의 간격 조절 */
+    gap: 10px; /* 버튼 사이의 간격 */
+}
+figure {
+    text-align: center;
+    margin: 0;
+}
+
+img {
+    width: 80px; /* 이미지 크기 조절 */
+    height: 80px;
+    cursor: pointer;
+}
+
+figcaption {
+    font-size: 12px; /* 글자 크기 */
+    color: #333;
+    margin-top: 5px;
+}
+.button-container {
+            position: relative;
+            left: 160px; /* 원하는 만큼 오른쪽으로 이동 (단위 px로 설정) */
+        }
+
+#park-submit {
+    background-color: #4CAF50; /* 버튼 배경색 */
+    color: white; /* 글자 색상 */
+    border: none; /* 테두리 없음 */
+    padding: 10px 20px; /* 안쪽 여백 */
+    text-align: center; /* 가운데 정렬 */
+    text-decoration: none; /* 밑줄 없음 */
+    display: inline-block; /* 인라인 블록으로 설정 */
+    font-size: 16px; /* 글자 크기 */
+    margin: 4px 2px; /* 여백 */
+    cursor: pointer; /* 커서 모양 변경 */
+    border-radius: 5px; /* 둥근 모서리 */
+    transition: background-color 0.3s; /* 배경색 전환 효과 */
+}
+
+#park-submit:hover {
+    background-color: #45a049; /* 호버 시 배경색 변화 */
+}
