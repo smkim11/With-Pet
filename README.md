@@ -13,17 +13,17 @@
 <img src= "https://github.com/user-attachments/assets/909515b1-b4a4-427b-b2cd-6fba34aedf80" width="30%" heigth="30%" />
 <img src= "https://github.com/user-attachments/assets/c9abb459-a1a6-4b87-964a-135178be5c41" width="30%" heigth="30%" /><br>
 - 회원가입 후 로그인하여 메인페이지로 이동<br><br>
-<img src= "https://github.com/user-attachments/assets/827496dc-ae2a-4eb7-84ae-7815c74837d7" width="30%" heigth="30%" />)<br>
+<img src= "https://github.com/user-attachments/assets/827496dc-ae2a-4eb7-84ae-7815c74837d7" width="45%" heigth="45%" />)<br>
 - 메인페이지 <br><br>
-<img src= "https://github.com/user-attachments/assets/72d21f29-0b43-4485-9352-7a7329dbc735" width="30%" heigth="30%" />)<br>
+<img src= "https://github.com/user-attachments/assets/72d21f29-0b43-4485-9352-7a7329dbc735" width="45%" heigth="45%" />)<br>
 - 반려견관련 최신 뉴스 확인 <br><br>
-<img src= "https://github.com/user-attachments/assets/4eb40641-b732-4bd0-b8e1-fbbe99819eac" width="30%" heigth="30%" />)<br>
+<img src= "https://github.com/user-attachments/assets/4eb40641-b732-4bd0-b8e1-fbbe99819eac" width="45%" heigth="45%" />)<br>
 - 소개페이지<br><br>
-<img src= "https://github.com/user-attachments/assets/bd0653c5-4af8-4756-be39-c8647c58fe23" width="30%" heigth="30%" />)<br>
+<img src= "https://github.com/user-attachments/assets/bd0653c5-4af8-4756-be39-c8647c58fe23" width="45%" heigth="45%" />)<br>
 - 메인페이지에서 시작하기 버튼을 클릭하여 검색페이지로 이동<br><br>
-<img src= "https://github.com/user-attachments/assets/31879987-68e3-4cb9-9db8-cf0d84e090d9" width="30%" heigth="30%" />)<br>
+<img src= "https://github.com/user-attachments/assets/31879987-68e3-4cb9-9db8-cf0d84e090d9" width="45%" heigth="45%" />)<br>
 - 검색페이지에서 지역을 입력하고, 검색 버튼이나 카테고리 버튼을 클릭 시 지도에 가게들이 나열<br><br>
-<img src= "https://github.com/user-attachments/assets/899d5eeb-28f4-4c9d-a4e5-f49d8035ef44)" width="30%" heigth="30%" /><br>
+<img src= "https://github.com/user-attachments/assets/899d5eeb-28f4-4c9d-a4e5-f49d8035ef44" width="45%" heigth="45%" /><br>
 - 카테고리 버튼<br><br>
 <img src= "https://github.com/user-attachments/assets/689b2d99-5b88-415b-b98a-75402f20b1e2" width="30%" heigth="30%" />)
 <img src= "https://github.com/user-attachments/assets/c1358672-63d3-4b65-b659-cff985e1ec6e" width="30%" heigth="30%" /><br>
